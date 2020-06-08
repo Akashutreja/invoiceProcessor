@@ -1,6 +1,6 @@
 # invoice-processor
 ## please follow these steps to run project
-1. After cloning this reposiroty. cd invoice-processor 
+1. After cloning this reposiroty. cd invoiceProcessor 
 2. pip install -r requirements.txt
 3. create database in postgres terminal with name "invoice".
 4. Run python manage.py migrate in "invoice-processor" directory
